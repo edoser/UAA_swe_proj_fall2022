@@ -1,7 +1,7 @@
 # UAA_swe_proj_fall2022
 Quick Recipes Android App
 
-CSCE A360
+CSCE A401
 
 Nina Kominiiak
 
